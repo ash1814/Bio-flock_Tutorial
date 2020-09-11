@@ -1,0 +1,40 @@
+body
+{
+    margin-left: 2%;
+    padding-left: 2px;
+    padding-right: 2px;
+    
+}
+section{
+    height: 700px;
+    
+}
+
+.introduction
+{
+    font-size: 40px;
+    
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+.intro
+{
+    
+    text-align: center;
+}
+
+h3{
+   font-size: 20px;
+}
+
+.half-width
+{
+    float: left;
+    width: 30%;
+    margin-top: 5px;
+    padding: 5%;
+}
